@@ -15,7 +15,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bedirhanaltun&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=bedirhanaltun&icon=1&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
